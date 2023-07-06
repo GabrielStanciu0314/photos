@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "url": "https://images.pexels.com/photos/756856/pexels-photo-756856.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "thumbnailUrl": "https://images.pexels.com/photos/756856/pexels-photo-756856.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "altText": "Image 1",
+    "title": "Beautiful Work"
+  },
+  {
+    "id": 2,
+    "url": "https://images.pexels.com/photos/756856/pexels-photo-756856.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "thumbnailUrl": "https://images.pexels.com/photos/756856/pexels-photo-756856.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "altText": "Image 2",
+    "title": "Amazing Art"
+  },
+  {
+    "id": 3,
+    "url": "https://images.pexels.com/photos/756856/pexels-photo-756856.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "thumbnailUrl": "https://images.pexels.com/photos/756856/pexels-photo-756856.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "altText": "Image 3",
+    "title": "Stunning Landscape"
+  }
+]
